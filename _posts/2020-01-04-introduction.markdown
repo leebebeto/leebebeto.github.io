@@ -15,7 +15,7 @@ Computer Vision, Generative Models, Interactive System
 <br> Taewook Kim, <u><strong>Jung Soo Lee</strong></u>, Zhenhui Peng, and Xiaojuan Ma
 <br> <i>CSCW 2019.</i> | <a href = "https://dl.acm.org/doi/10.1145/3359181">ACM DL</a> | <a href="{{ site.baseurl }}{% link /assets/CSCW_Lily_BibTex.txt %}
 "> BibTeX  </a>| <a href = "https://hcikim.github.io/cscw2019/2019/09/23/lily.html">Project Website </a> 
-
+asd
 <h4> <strong>Latest News & Travel</strong> </h4>
 [<strong>January 2020</strong>] I am interning at <a href = "https://webtoonscorp.com/"> Naver Webtoon</a> as a research engineer!
 
